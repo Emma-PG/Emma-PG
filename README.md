@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Emma-PG
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning fullstack web development with react 
+- 👀 I’m currently on C#
+- 🌱 Making a fullstack App
+-   Technologies : .NET C# + React
 - 📫 How to reach me : penaemmanuel0612@gmail.com
 
 
